@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "M3Ib2vbGHdkKb2jiIhszQp+FXwpHk63UHridp0rzml8=",
+  "Source": "TestCreator.WebApp",
+  "BasePath": "_content/TestCreator.WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestCreator.WebApp\\wwwroot",
+      "Source": "TestCreator.WebApp",
+      "ContentRoot": "D:\\git\\TestStudent\\TestCreator.WebApp\\wwwroot\\",
+      "BasePath": "_content/TestCreator.WebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\git\\TestStudent\\TestCreator.WebApp\\wwwroot\\favicon.ico",
+      "SourceId": "TestCreator.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git\\TestStudent\\TestCreator.WebApp\\wwwroot\\",
+      "BasePath": "_content/TestCreator.WebApp",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
